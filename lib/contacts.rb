@@ -21,15 +21,5 @@ def remove_strawberry(contacts)
       binding.pry
 
     end
-
-
-
-    # if contact_details_hash[:favorite_ice_cream_flavors] = "strawberry"
-
-
   end
-
-
-
-
 end
